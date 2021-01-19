@@ -104,7 +104,7 @@ def menu():
     elif menu == "4":pembagian()
     elif menu == "5":pangkat()
     else:
-        print(" Menu Tidak Ada!")
+        print("Menu Tidak Ada!")
         input("Press Enter To Exit...")
 
 menu()
